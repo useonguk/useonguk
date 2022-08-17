@@ -12,3 +12,5 @@
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=ocean_dark&theme=prussian)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact)](https://github.com/useonguk/github-readme-stats)
