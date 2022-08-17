@@ -11,8 +11,10 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=Github&logoColor=white"/>
 </p>
 <br><br>
-
+<div align="center">
+    
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=ocean_dark&theme=prussian)
-<br>
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact)](https://github.com/useonguk/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact)](https://github.com/useonguk/github-readme-stats)
+
+</div>
