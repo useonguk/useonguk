@@ -5,7 +5,7 @@
 <p align="center">
     <strong>SNS</strong><br><br>
     <a href="https://www.instagram.com/seonguk391/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-    <a href="https://github.com/useonguk"target="_black"<img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=Github&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=Github&logoColor=white"/>
     
 </p>
 
