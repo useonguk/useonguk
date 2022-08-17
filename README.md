@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FADCF&height=300&section=header&text=welcome%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20Github%20Profile&descAlignY=51&descAlign=62)
-
+<div aling="center>
+    ![header](https://capsule-render.vercel.app/api?type=waving&color=6FADCF&height=300&section=header&text=welcome%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20Github%20Profile&descAlignY=51&descAlign=62)
+</div>
 <br>
 
 <p align="center">
@@ -10,7 +11,8 @@
 </p>
 
 <br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=ocean_dark&theme=prussian)
+<div aling="center">
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=ocean_dark&theme=prussian)
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact)](https://github.com/useonguk/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact)](https://github.com/useonguk/github-readme-stats)
+</div>
