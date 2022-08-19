@@ -11,9 +11,10 @@
     <img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=Github&logoColor=white"/>
 </p>
 
-<strong>skill</strong>
 <br>
 <p align="center">
+<strong>skill</strong>
+<br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 </p>
 <br><br>
