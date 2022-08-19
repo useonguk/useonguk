@@ -10,6 +10,11 @@
     <a href="https://www.instagram.com/seonguk391/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
     <img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=Github&logoColor=white"/>
 </p>
+
+<strong>skill</strong>
+<br>
+<p><img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
+</p>
 <br><br>
 <div align="center">
     
