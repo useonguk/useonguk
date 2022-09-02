@@ -28,9 +28,7 @@
 <div align="center">
     ### Tools
     <br>
-    https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white
-    https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white
-    https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white
+    
 </div>
 <br><br>
 <div align="center">
