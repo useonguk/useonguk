@@ -34,10 +34,11 @@
 <br><br>
 <div align="center">
 </div>
-    
+<div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=ocean_dark&theme=prussian)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact)](https://github.com/useonguk/github-readme-stats)
+</div>
 
 # :mailbox_with_mail: Contacts
 <p>ysu3334@naver.com</p>
