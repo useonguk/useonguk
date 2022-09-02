@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center">Cancel changes
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6FADCF&height=300&section=header&text=welcome%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20Github%20Page&descAlignY=51&descAlign=62)
 
@@ -28,10 +28,9 @@
 <div align="center">
     ### Tools
     <br>
-    ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
-    ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
-    ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
+    (https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
+    (https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+    (https://img.shields.io/badge/Android%20Studio-3DDC84.svg?&style=for-the-badge&logo=Android%20Studio&logoColor=white)
 </div>
 <br><br>
 <div align="center">
