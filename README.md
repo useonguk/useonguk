@@ -33,9 +33,10 @@
 </div>
 <br><br>
 <div align="center">
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact)]
-    <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true&theme=radical)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true">
+    <!--[Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=u   seonguk&show_icons=true&theme=radical)
+    [![Top Langs](https://github-readme-stats.vercel.ap&top-langs/?username=useonguk&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 </div>
  
 # :mailbox_with_mail: Contacts
