@@ -28,14 +28,15 @@
 <div align="center">
     ### Tools
     <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact"><br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true">    
+     <img src="https://img.shields.io/badge/eclipse IDE-2c2255?style=flat&logo=eclipse IDE&logoColor=white"/>
+     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
+     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
 </div>
 <br><br>
 <div align="center">
     
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true&theme=radical">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true"> 
     
 </div>
  
