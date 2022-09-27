@@ -28,8 +28,8 @@
 <div align="center">
     ### Tools
     <br>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true">    
 </div>
 <br><br>
 <div align="center">
