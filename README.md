@@ -5,14 +5,14 @@
 </div>
 <br>
 
-<div align="center">
+<p align="center">
     <strong>SNS</strong><br><br>
     <a href="https://www.instagram.com/seonguk391/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=Github&logoColor=white"/>
-</div>
+</p>
 
 <br>
-<div align="center">
+<p align="center">
 <strong>skill</strong>
 <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -23,20 +23,16 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-</div>
+</p>
 <br><br>
 <div align="center">
-    ### Tools
+  <!--  ### Tools -->
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact"><br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true">    
 </div>
 <br><br>
-
 <div align="center">
-    
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true&theme=radical">
     
 </div>
  
