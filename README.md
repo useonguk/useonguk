@@ -28,16 +28,11 @@
 <div align="center">
     ### Tools
     <br>
-    <!--Tools beige-->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact"><br><br>
-    <img src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true">
-    <br><br>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 </div>
-
-
-
+<br><br>
 <div align="center">
-    <!--widget-->
+    
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact">
     <img src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true&theme=radical">
     
