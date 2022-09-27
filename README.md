@@ -5,14 +5,14 @@
 </div>
 <br>
 
-<p align="center">
+<div align="center">
     <strong>SNS</strong><br><br>
     <a href="https://www.instagram.com/seonguk391/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=Github&logoColor=white"/>
-</p>
+</div>
 
 <br>
-<p align="center">
+<div align="center">
 <strong>skill</strong>
 <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
@@ -23,13 +23,16 @@
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-### Tools
-    <br>
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Eclipse IDE-2c2255?style=flat-square&logo=Eclipse IDE&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
-</p>
+</div>
 <br><br>
+<div align="center">
+    ### Tools
+    <br>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact"><br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true">    
+</div>
+<br><br>
+
 <div align="center">
     
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact">
