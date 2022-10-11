@@ -31,9 +31,7 @@
     <img width= 40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact" /> <img width= 35% src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true" />    
 </div>
 <br><br>
-<div align="center">
-    ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=useonguk)
-</div>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=useonguk)
  
 # :mailbox_with_mail: Contacts
 <p>ysu3334@naver.com</p>
