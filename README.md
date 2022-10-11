@@ -29,7 +29,7 @@
 <div align="center">
   <!--  ### Tools -->
     <br>
-    <img width= 40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact" /> <img width= 35% src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true" />    
+    <img width= 40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact" /> <img width= 45% src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true" />    
 </div>
 <br><hr><br>
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=useonguk)-->
