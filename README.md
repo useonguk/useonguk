@@ -4,14 +4,13 @@
 
 </div>
 <br>
-<hr>
 
 <p align="center">
     <strong>SNS</strong><br><br>
     <a href="https://www.instagram.com/seonguk391/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=Github&logoColor=white"/>
 </p>
-<hr>
+
 <br>
 <p align="center">
 <strong>skill</strong>
@@ -25,7 +24,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 </p>
-<br><hr><br>
+<br><br>
 <div align="center">
   <!--  ### Tools -->
     <br>
