@@ -28,7 +28,7 @@
 <div align="center">
   <!--  ### Tools -->
     <br>
-    <img width= 50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact"><br><br>
+    <img width= 50% src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact">
     <img width= 50% src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true">    
 </div>
 <br><br>
