@@ -1,5 +1,3 @@
-<!--뱀 만든거 코드-->
-![snake gif](https://github.com/useonguk/useonguk/blob/output/github-contribution-grid-snake.svg)
 <div align="center">Cancel changes
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6FADCF&height=300&section=header&text=welcome%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20Github%20Page&descAlignY=51&descAlign=62)
@@ -38,3 +36,6 @@
  
 # :mailbox_with_mail: Contacts
 <p>ysu3334@naver.com</p>
+
+<!--뱀 만든거 코드-->
+![snake gif](https://github.com/useonguk/useonguk/blob/output/github-contribution-grid-snake.svg)
