@@ -37,5 +37,6 @@
 # :mailbox_with_mail: Contacts
 <p>ysu3334@naver.com</p>
 
-<!--뱀 만든거 코드-->
+<!--뱀 코드-->
 ![snake gif](https://github.com/useonguk/useonguk/blob/output/github-contribution-grid-snake.svg)
+<p>뱀이다!!!!</p>
