@@ -33,12 +33,13 @@
 <br><hr><br>
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=useonguk) COM
 -->
- 
-# :mailbox_with_mail: Contacts
-<p>ysu3334@naver.com</p>
 
 <!--뱀 코드-->
 ![snake gif](https://github.com/useonguk/useonguk/blob/output/github-contribution-grid-snake.svg)
 <div align="center">
     <p>용이다!!!!</p>
 </div>
+
+
+# :mailbox_with_mail: Contacts
+<p>ysu3334@naver.com</p>
