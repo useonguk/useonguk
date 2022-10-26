@@ -39,4 +39,6 @@
 
 <!--뱀 코드-->
 ![snake gif](https://github.com/useonguk/useonguk/blob/output/github-contribution-grid-snake.svg)
-<p>뱀이다!!!!</p>
+<div align="center">
+    <p>용이다!!!!</p>
+</div>
