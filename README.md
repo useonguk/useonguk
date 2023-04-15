@@ -38,9 +38,6 @@
 
 <!--뱀 코드-->
 ![snake gif](https://github.com/useonguk/useonguk/blob/output/github-contribution-grid-snake.svg)
-<div align="center">
-    <p>용이다!!!!</p>
-</div>
 
 
 # :mailbox_with_mail: Contacts
