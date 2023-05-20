@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Dart-61DAFB?style=flat-square&logo=dart&logoColor=white"/></a>&nbsp
 </p>
 <br><br>
 <div align="center">
