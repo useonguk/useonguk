@@ -31,7 +31,7 @@
 &nbsp
 <div align="center">
   <!--  ### Tools -->
-    $nbsp
+    &nbsp
     <img width= 40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact" /> <img width= 45% src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true" />    
 </div>
 &nbsp<hr>&nbsp
