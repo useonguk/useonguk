@@ -19,7 +19,6 @@
 <br>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Oracle-80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/></a>&nbsp 
 <br>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
@@ -28,13 +27,14 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Dart-61DAFB?style=flat-square&logo=dart&logoColor=white"/></a>&nbsp
 </p>
-<br><br>
+&nbsp
+&nbsp
 <div align="center">
   <!--  ### Tools -->
-    <br>
+    $nbsp
     <img width= 40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact" /> <img width= 45% src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true" />    
 </div>
-<br><hr><br>
+&nbsp<hr>&nbsp
 <!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=useonguk) COM
 -->
 
