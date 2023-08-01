@@ -35,9 +35,8 @@
     <img width= 40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=useonguk&layout=compact" /> <img width= 45% src="https://github-readme-stats.vercel.app/api?username=useonguk&show_icons=true" />    
 </div>
 &nbsp<hr>&nbsp
-<!--![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=useonguk) COM
--->
-<h1>공사중 (멈춘 사유찾는중)</h1>
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=useonguk) COM
+
 <!--뱀 코드-->
 
 ![snake gif](https://github.com/useonguk/useonguk/blob/output/github-contribution-grid-snake.svg)
