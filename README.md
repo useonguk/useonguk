@@ -3,7 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6FADCF&height=300&section=header&text=welcome%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20Github%20Page&descAlignY=51&descAlign=62)
 
 </div>
-<div align="center">frontend studing</div>
+<div align="center">web/app 개발자를 꿈꾸는중</div>
 <br>
 
 <p align="center">
