@@ -45,4 +45,4 @@
 ![snake gif](https://github.com/useonguk/useonguk/blob/output/github-contribution-grid-snake.svg)
 -->
 # :mailbox_with_mail: Contacts
-<p>ysu3334@naver.com</p>
+<p>ysu0219@gmail.com</p>
