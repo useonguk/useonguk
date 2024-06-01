@@ -8,8 +8,9 @@
 
 <p align="center">
     <strong>
-        <a href="https://www.notion.so/485ed7e0fcdc40a8b88a9da7fc8adc32?pvs=4">포토폴리오</a>
+        <a href="https://www.notion.so/485ed7e0fcdc40a8b88a9da7fc8adc32?pvs=4">노션 이력서/포토폴리오</a>
     </strong>
+    <br />
     <br />
     <strong>SNS</strong><br><br>
     <a href="https://satin-roast-ca9.notion.site/c49ccd2d130b4070a4ec9c111e743253" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=notion"/></a>
