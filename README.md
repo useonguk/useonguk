@@ -8,7 +8,7 @@
 
 <p align="center">
     <strong>
-        <a href="https://www.notion.so/485ed7e0fcdc40a8b88a9da7fc8adc32?pvs=4](https://satin-roast-ca9.notion.site/485ed7e0fcdc40a8b88a9da7fc8adc32?pvs=74">노션 이력서/포토폴리오</a>
+        <a href="https://satin-roast-ca9.notion.site/485ed7e0fcdc40a8b88a9da7fc8adc32?pvs=4">노션 이력서/포토폴리오</a>
     </strong>
     <br />
     <br />
