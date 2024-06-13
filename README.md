@@ -6,18 +6,13 @@
 <h1 align="center" style="color: black;">frontend / app 개발자입니다</h1>
 <br>
 
-<p align="center">
-    <strong>
-        <a href="https://satin-roast-ca9.notion.site/485ed7e0fcdc40a8b88a9da7fc8adc32?pvs=4">노션 이력서/포토폴리오</a>
-    </strong>
-    <br />
-    <br />
+<div align="center">
+    <a href="https://satin-roast-ca9.notion.site/485ed7e0fcdc40a8b88a9da7fc8adc32?pvs=4">노션 이력서/포토폴리오</a><br /><br />
     <strong>SNS</strong><br><br>
     <a href="https://satin-roast-ca9.notion.site/c49ccd2d130b4070a4ec9c111e743253" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=notion"/></a>
-<!--     <a href="https://www.instagram.com/seonguk391/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> -->
-<img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=Github&logoColor=white"/>
-</p>
-
+<a href="https://www.instagram.com/seonguk391/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/Github-181717?style=flat-round&logo=Github&logoColor=white"/>
+</div>
 <br>
 <p align="center">
 <strong>skill</strong>
