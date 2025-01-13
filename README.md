@@ -1,7 +1,8 @@
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6FADCF&height=300&section=header&text=welcome%20&fontSize=90&animation=fadeIn&fontAlignY=38&desc=My%20Github%20Page&descAlignY=51&descAlign=62)
-
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/useonguk?pet-id=1" width="1000" height="120"/>
+</a>
 </div>
 <h1 align="center" style="color: black;">frontend / app 개발자입니다</h1>
 <br>
