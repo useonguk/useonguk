@@ -1,7 +1,7 @@
 
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/useonguk?pet-id=1" width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/useonguk"/>
 </a>
 </div>
 <h1 align="center" style="color: black;">frontend / app 개발자입니다</h1>
