@@ -57,7 +57,7 @@
 </p>
 
 ---
-
+<!--
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -65,7 +65,7 @@
 </p>
 
 ---
-
+-->
 ## 📫 Contact & Links
 * 📧 **Email:** ysu0219@gmail.com
 <!--
