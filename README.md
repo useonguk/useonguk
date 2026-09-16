@@ -1,4 +1,4 @@
-# 👋 안녕하세요, 개발지 유성욱입니다!
+# 👋 안녕하세요, 개발자 유성욱입니다!
 
 <p align="center">
   <a href="https://github.com/devxb/gitanimals">
